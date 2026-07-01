@@ -5,7 +5,7 @@ A Python-based interactive web application developed using **Streamlit** to mana
 ## 🚀 Live Demo
 
 Try the application here:  
-https://YOUR-STREAMLIT-LINK.streamlit.app/
+https://bank-management-system-53tfqgsurk6rmr8xuxcidq.streamlit.app/
 
 ---
 
